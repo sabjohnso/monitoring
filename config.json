@@ -1,0 +1,8 @@
+{
+    "dataRepo" : "https://github.com/CSSEGISandData/COVID-19.git",
+    "dataRoot": "/home/sbj/Sandbox/COVID-19",
+    "dataRelpath":"csse_covid_19_data/csse_covid_19_daily_reports"
+}
+  
+
+    
