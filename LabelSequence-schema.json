@@ -1,0 +1,31 @@
+{
+    "$schema" : "",
+    "title" : "Label Sequence Grammar",
+    "description" : "A JSON grammar for describing label sequences and their maps to cannonical a form",
+    "type" : "object",
+    "properties" : {
+        "labels" : {
+            "type" : "array",
+            "items" : {"type" : "string"},
+            "minItems" : 4,
+            "uniqueItems" : true
+        },
+        "labelMap" : {
+            "type" : "object",
+            "properties" : {
+                "Location" : {
+                    "type" : "array",
+                    "items" : {"type" : "string"},
+                    "minItems" : 1
+                },
+                "Confirmed" : {"type" : "string"},
+                "Deaths" : {"type" : "string"},
+                "Recovered" : {"type" : "string"}
+            },
+            "required" : ["Location", "Confirmed", "Deaths", "Recovered"],
+            "additionalProperties" : false
+        }
+    },
+    "required" : ["labels", "labelMap"],
+    "additionalProperties" :  false
+}

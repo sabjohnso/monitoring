@@ -1,7 +1,3 @@
-
-
-
-
 class RuntimeConfig(object):
     def __init__(self, argv):
         from argparse import ArgumentParser

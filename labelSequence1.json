@@ -1,0 +1,17 @@
+{
+    "labels" : [
+        "Province/State",
+        "Country/Region",
+        "Last Update",
+        "Confirmed",
+        "Deaths",
+        "Recovered" ],
+    "labelMap" : {
+        "Location"  : [
+            "Province/State",
+            "Country/Region"
+        ],
+        "Confirmed" : "Confirmed",
+        "Deaths"    : "Deaths",
+        "Recovered" : "Recovered"}
+}

@@ -1,0 +1,356 @@
+{
+    "Alabama" : {
+        "name" : "Alabama",
+        "abbreviation" : "Ala.",
+	"postalAbbreviation" : "AL",
+        "isState" : true
+    },
+    "Alaska" : {
+        "name" : "Alaska",
+        "abbreviation" : "Alaska",
+	"postalAbbreviation" : "AK",
+        "isState" : true
+    },
+    "American Samoa" : {
+        "name" : "American Samoa",
+        "abbreviation" : null,
+        "postalAbbreviation" : "AS",
+        "isState" : false
+    },
+    "Arizona" : {
+        "name" : "Arizona",
+        "abbreviation" : "Ariz.",
+	"postalAbbreviation" : "AZ",
+        "isState" : true
+    },
+    "Arkansas" : {
+        "name" : "Arkansas",
+        "abbreviation" : "Ark.",
+	"postalAbbreviation" : "AR",
+        "isState" : true
+    },
+    "California" : {
+        "name" : "California",
+        "abbreviation" : "Calif.",
+	"postalAbbreviation" : "CA",
+        "isState" : true
+    },
+    "Colorado" : {
+        "name" : "Colorado",
+        "abbreviation" : "Colo.",
+	"postalAbbreviation" : "CO",
+        "isState" : true
+    },
+    "Connecticut" : {
+        "name" : "Connecticut",
+        "abbreviation" : "Conn.",
+	"postalAbbreviation" : "CT",
+        "isState" : true
+    },
+    "Delaware" : {
+        "name" : "Delaware",
+        "abbreviation" : "Del.",
+	"postalAbbreviation" : "DE",
+        "isState" : true
+    },
+    "Dist. of Columbia" : {
+        "name" : "Dist. of Columbia",
+        "abbreviation" : "D.C.",
+        "postalAbbreviation" : "DC",
+        "isState" : false
+    },
+    "Florida" : {
+        "name" : "Florida",
+        "abbreviation" : "Fla.",
+	"postalAbbreviation" : "FL",
+        "isState" : true
+    },
+    "Georgia" : {
+        "name" : "Georgia",
+        "abbreviation" : "Ga.",
+	"postalAbbreviation" : "GA",
+        "isState" : true
+    },
+    "Guam" : {
+        "name" : "Guam",
+        "abbreviation" : "Guam",
+	"postalAbbreviation" : "GU",
+        "isState" : false
+    },
+    "Hawaii" : {
+        "name" : "Hawaii",
+        "abbreviation" : "Hawaii",
+	"postalAbbreviation" : "HI",
+        "isState" : true
+    },
+    "Idaho" : {
+        "name" : "Idaho",
+        "abbreviation" : "Idaho",
+	"postalAbbreviation" : "ID",
+        "isState" : true
+    },
+    "Illinois" : {
+        "name" : "Illinois",
+        "abbreviation" : "Ill.",
+	"postalAbbreviation" : "IL",
+        "isState" : true
+    },
+    "Indiana" : {
+        "name" : "Indiana",
+        "abbreviation" : "Ind.",
+	"postalAbbreviation" : "IN",
+        "isState" : true
+    },
+    "Iowa" : {
+        "name" : "Iowa",
+        "abbreviation" : "Iowa",
+	"postalAbbreviation" : "IA",
+        "isState" : true
+    },
+    "Kansas" : {
+        "name" : "Kansas",
+        "abbreviation" : "Kans.",
+	"postalAbbreviation" : "KS",
+        "isState" : true
+    },
+    "Kentucky" : {
+        "name" : "Kentucky",
+        "abbreviation" : "Ky.",
+	"postalAbbreviation" : "KY",
+        "isState" : true
+    },
+    "Louisiana" : {
+        "name" : "Louisiana",
+        "abbreviation" : "La.",
+	"postalAbbreviation" : "LA",
+        "isState" : true
+    },
+    "Maine" : {
+        "name" : "Maine",
+        "abbreviation" : "Maine",
+	"postalAbbreviation" : "ME",
+        "isState" : true
+    },
+    "Maryland" : {
+        "name" : "Maryland",
+        "abbreviation" : "Md.",
+	"postalAbbreviation" : "MD",
+        "isState" : true
+    },
+    "Marshall Islands" : {
+        "name" : "Marshall Islands",
+        "abbreviation" : null,
+        "postalAbbreviation" : "MH",
+        "isState" : false
+    },
+    "Massachusetts" : {
+        "name" : "Massachusetts",
+        "abbreviation" : "Mass.",
+	"postalAbbreviation" : "MA",
+        "isState" : true
+    },
+    "Michigan" : {
+        "name" : "Michigan",
+        "abbreviation" : "Mich.",
+	"postalAbbreviation" : "MI",
+        "isState" : true
+    },
+    "Micronesia" : {
+        "name" : "Micronesia",
+        "abbreviation" : null,
+	"postalAbbreviation" : "FM",
+        "isState" : false
+    },
+    "Minnesota" : {
+        "name" : "Minnesota",
+        "abbreviation" : "Minn.",
+	"postalAbbreviation" : "MN",
+        "isState" : true
+    },
+    "Mississippi" : {
+        "name" : "Mississippi", 
+        "abbreviation" : "Miss.",
+        "postalAbbreviation" : "MS",
+        "isState" : true
+    },
+    "Missouri" : {
+        "name" : "Missouri", 
+        "abbreviation" : "Mo.",
+        "postalAbbreviation" : "MO",
+        "isState" : true
+    },
+    "Montana" : {
+        "name" : "Montana", 
+        "abbreviation" : "Mont.",
+        "postalAbbreviation" : "MT",
+        "isState" : true
+    },
+    "Nebraska" : {
+        "name" : "Nebraska", 
+        "abbreviation" : "Nebr.",
+        "postalAbbreviation" : "NE",
+        "isState" : true
+    },
+    "Nevada" : {
+        "name" : "Nevada", 
+        "abbreviation" : "Nev.",
+        "postalAbbreviation" : "NV",
+        "isState" : true
+    },
+    "New Hampshire" : {
+        "name" : "New Hampshire", 
+        "abbreviation" : "N.H.",
+        "postalAbbreviation" : "NH",
+        "isState" : true
+    },
+    "New Jersey" : {
+        "name" : "New Jersey", 
+        "abbreviation" : "N.J.",
+        "postalAbbreviation" : "NJ",
+        "isState" : true
+    },
+    "New Mexico" : {
+        "name" : "New Mexico", 
+        "abbreviation" : "N.M.",
+        "postalAbbreviation" : "NM",
+        "isState" : true
+    },
+    "New York" : {
+        "name" : "New York",
+        "abbreviation" : "N.Y.",
+	"postalAbbreviation" : "NY",
+        "isState" : true
+    },
+    "North Carolina" : {
+        "name" : "North Carolina",
+        "abbreviation" : "N.C.",
+	"postalAbbreviation" : "NC",
+        "isState" : true
+    },
+    "North Dakota" : {
+        "name" : "North Dakota",
+        "abbreviation" : "N.D.",
+	"postalAbbreviation" : "ND",
+        "isState" : true
+    },
+    "Northern Marianas" : {
+        "name" : "Northern Marianas",
+        "abbreviation" :  null,
+        "postalAbbreviation" : "MP"        ,
+        "isState" : false
+    },
+    "Ohio" : {
+        "name" : "Ohio",
+        "abbreviation" : "Ohio",
+	"postalAbbreviation" : "OH",
+        "isState" : true
+    },
+    "Oklahoma" : {
+        "name" : "Oklahoma",
+        "abbreviation" : "Okla.",
+	"postalAbbreviation" : "OK",
+        "isState" : true
+    },
+    "Oregon" : {
+        "name" : "Oregon",
+        "abbreviation" : "Ore.",
+	"postalAbbreviation" : "OR",
+        "isState" : true
+    },
+    "Palau" : {
+        "name" : "Palau",
+        "abbreviation" : null,
+        "postalAbbreviation" : "PW",
+        "isState" : false
+    },
+    "Pennsylvania" : {
+        "name" : "Pennsylvania", 
+        "abbreviation" : "Pa.",
+        "postalAbbreviation" : "PA",
+        "isState" : true
+    },
+    "Puerto Rico" : {
+        "name" : "Puerto Rico",
+        "abbreviation" : "P.R.",
+        "postalAbbreviation" : "PR",
+        "isState" : false
+    },
+    "Rhode Island" : {
+        "name" : "Rhode Island",
+        "abbreviation" : "R.I.",
+        "postalAbbreviation" : "RI",
+        "isState" : true
+    },
+    "South Carolina" : {
+        "name" : "South Carolina", 
+        "abbreviation" : "S.C.",
+        "postalAbbreviation" : "SC",
+        "isState" : true
+    },
+    "South Dakota" : {
+        "name" : "South Dakota", 
+        "abbreviation" : "S.D.",
+        "postalAbbreviation" : "SD",
+        "isState" : true
+    },
+    "Tennessee" : {
+        "name" : "Tennessee", 
+        "abbreviation" : "Tenn.",
+        "postalAbbreviation" : "TN",
+        "isState" : true
+    },
+    "Texas" : {
+        "name" : "Texas", 
+        "abbreviation" : "Tex.",
+        "postalAbbreviation" : "TX",
+        "isState" : true
+    },
+    "Utah" : {
+        "name" : "Utah", 
+        "abbreviation" : "Utah",
+        "postalAbbreviation" : "UT",
+        "isState" : true
+    },
+    "Vermont" : {
+        "name" : "Vermont", 
+        "abbreviation" : "Vt.",
+        "postalAbbreviation" : "VT",
+        "isState" : true
+    },
+    "Virginia" : {
+        "name" : "Virginia", 
+        "abbreviation" : "Va.",
+        "postalAbbreviation" : "VA",
+        "isState" : true
+    },
+    "Virgin Islands" : {
+        "name" : "Virgin Islands", 
+        "abbreviation" : "V.I.",
+        "postalAbbreviation" : "VI",
+        "isState" : true
+    },
+    "Washington" : {
+        "name" : "Washington", 
+        "abbreviation" : "Wash.",
+        "postalAbbreviation" : "WA",
+        "isState" : true
+    },
+    "West Virginia" : {
+        "name" : "West Virginia", 
+        "abbreviation" : "W.Va.",
+        "postalAbbreviation" : "WV",
+        "isState" : true
+    },
+    "Wisconsin" : {
+        "name" : "Wisconsin", 
+        "abbreviation" : "Wis.",
+        "postalAbbreviation" : "WI",
+        "isState" : true
+    },
+    "Wyoming" : {
+        "name" : "Wyoming", 
+        "abbreviation" : "Wyo.",
+        "postalAbbreviation" : "WY",
+        "isState" : true
+    }
+}
